@@ -1,0 +1,24 @@
+GK - 9
+Entertainment: Book - 10
+:Film - 11
+: Music - 12
+: Musical Theater - 13
+: TV - 14
+: Video game- 15
+: Board game- 16
+Science & nature- 17
+Science:Computers - 18
+Science: Maths - 19
+Mythology- 20
+Sports- 21
+Geography- 22
+History- 23
+Politics- 24
+Art- 25
+Celebrities-26
+Animal- 27
+Vehicle- 28
+Entertainment: Comics- 29
+Science: Gadget- 30
+Entertainment: ANime and manga- 31
+Entertainment: Cartoon and Animation- 32
